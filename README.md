@@ -17,4 +17,4 @@
 - `nota2: float`  
 
 #### Saída
-![Resultado da Média](./imgs/image.png)
+![Resultado da Média](./imgs/codigo1.png)
