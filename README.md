@@ -9,7 +9,7 @@
 
 ### Código 1
 
-[Ver o Algoritmo](./introdução/main.py)
+[Ver o Algoritmo](./introdução/codigo1.py.py)
 
 #### Entrada
 - `name: str`  
@@ -18,3 +18,17 @@
 
 #### Saída
 ![Resultado da Média](./imgs/codigo1.png)
+
+### Código 2
+
+[Ver o Algoritmo](./introdução/codigo2.py)
+
+### Variaveis
+ - `nome: str`
+ - `idade: int`
+ - `altura: float`
+ - `beleza: bool`
+ - `peso: str`
+
+### Saída
+![Saída](./imgs/codigo2.png)
