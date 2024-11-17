@@ -19,6 +19,8 @@
 #### Saída
 ![Resultado da Média](./imgs/codigo1.png)
 
+-------
+
 ### Código 2
 
 [Ver o Algoritmo](./introdução/codigo2.py)
@@ -32,6 +34,8 @@
 
 ### Saída
 ![Saída](./imgs/codigo2.png)
+
+-------
 
 ### Código 3
 
