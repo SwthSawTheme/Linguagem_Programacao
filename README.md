@@ -32,3 +32,26 @@
 
 ### Saída
 ![Saída](./imgs/codigo2.png)
+
+### Código 3
+
+[Ver o Algoritmo](./introdução/codigo3.py)
+
+
+### Entrada
+- `valorPrimario: float`
+- `taxa: float`
+- `periodos: int`
+
+#### Dados fornecidos
+- Valor principal (P): 2500
+- Taxa de juros (r): 0.1 (10%)
+- Número de períodos (n): 5
+#### Fórmulas utilizadas:
+1. Montante: $M=P⋅(1+r)^n$
+2. Juros: $J = M-P$
+- `Montante -> float`
+- `Juros -> float`
+
+### Saída
+![Saída](./imgs/codigo3.png)
